@@ -1,0 +1,44 @@
+{
+	"FixedFileInfo":
+	{
+		"FileVersion": {
+			"Major": 2017,
+			"Minor": 6,
+			"Patch": 5,
+			"Build": 1
+		},
+		"ProductVersion": {
+			"Major": 2017,
+			"Minor": 6,
+			"Patch": 5,
+			"Build": 1
+		},
+		"FileFlagsMask": "3f",
+		"FileFlags ": "00",
+		"FileOS": "040004",
+		"FileType": "01",
+		"FileSubType": "00"
+	},
+	"StringFileInfo":
+	{
+		"Comments": "",
+		"CompanyName": "SCJ Alliance",
+		"FileDescription": "App runner with environment variables",
+		"FileVersion": "2017.6.5.1",
+		"InternalName": "",
+		"LegalCopyright": "",
+		"LegalTrademarks": "",
+		"OriginalFilename": "environ.exe",
+		"PrivateBuild": "",
+		"ProductName": "environ",
+		"ProductVersion": "2017.6.5.1",
+		"SpecialBuild": ""
+	},
+	"VarFileInfo":
+	{
+		"Translation": {
+			"LangID": "0409",
+			"CharsetID": "04B0"
+		}
+	}
+}
